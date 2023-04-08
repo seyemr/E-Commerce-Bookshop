@@ -1,6 +1,6 @@
 # E-Commerce-Bookshop
 
-<img src="gif/gif.mp4"/>
+<img src="gif/gif.gif"/>
 
 # E-Commerce Bookstore
 
