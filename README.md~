@@ -1,9 +1,5 @@
 # E-Commerce Bookstore
 
-
- 
-
-
 # E-Commerce Bookstore
 
  This is an e-commerce site for a bookstore, built using HTML and CSS.
@@ -12,18 +8,18 @@
 
 # Table Of Contents
 
-- Features
-- Getting Started 
-- Usage
-- Contributor
-- License
+ - Features
+ - Getting Started 
+ - Usage
+ - Contributor
+ - License
 
 # Features 
 
-- Browse books by category
-- Search for books by title or author
-- View book details and reviews
-- Add books to cart Check out and order.
+ - Browse books by category
+ - Search for books by title or author
+ - View book details and reviews
+ - Add books to cart Check out and order.
 
 # Licence
-- Seydi EMRE, who designed this project
+ - Seydi EMRE, who designed this project
